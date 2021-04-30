@@ -1,0 +1,1 @@
+/usr/bin/c++  -pthread -g CMakeFiles/main.dir/cMain.cpp.o CMakeFiles/main.dir/cApp.cpp.o CMakeFiles/main.dir/cEditorFrame.cpp.o CMakeFiles/main.dir/cCanvas.cpp.o -o main   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -L/usr/local/lib -pthread -lwx_gtk3u_core-3.1 -lwx_baseu-3.1 
